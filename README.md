@@ -4,3 +4,13 @@ Then I saved the new dataset and the ML model as .pkl files using the pickle mod
 Next, I uploaded these files to VS Code and created a webpage using streamlit.
 I integrated the model's pickle file with the streamlit code, and saved the changes.
 Then I ran the file using "streamlit run" function in the VS Code terminal.
+
+INSTALLED MODULES:
+numpy
+pandas
+sklearn.feature_extraction.text
+sklearn.naive_bayes
+pickle
+json
+streamlit
+requests
