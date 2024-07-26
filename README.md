@@ -7,10 +7,17 @@ Then I ran the file using "streamlit run" function in the VS Code terminal.
 
 INSTALLED MODULES:
 numpy
+
 pandas
+
 sklearn.feature_extraction.text
+
 sklearn.naive_bayes
+
 pickle
+
 json
+
 streamlit
+
 requests
